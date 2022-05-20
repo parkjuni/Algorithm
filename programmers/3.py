@@ -1,5 +1,5 @@
-from collections import defaultdict
 # 신고 결과 받기
+from collections import defaultdict
 
 
 def solution(id_list, report, k):
